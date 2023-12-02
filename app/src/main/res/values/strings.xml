@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="message">Olá mundo</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+    <string name="veja_abaixo_a_tabela">VEJA ABAIXO A TABELA:</string>
+    <string name="menor_que_18_5_abaixo_do_peso">MENOR QUE 18.5 ABAIXO DO PESO!</string>
+    <string name="entre_18_5_e_24_9_normal">ENTRE 18.5 E 24.9 NORMAL!</string>
+    <string name="entre_25_0_e_29_9_sobrepeso">ENTRE 25.0 E 29.9 SOBREPESO!</string>
+    <string name="entre_30_0_e_39_9_obesidade">ENTRE 30.0 E 39.9 OBESIDADE!</string>
+    <string name="maior_que_40_0_obesidade_grave">MAIOR QUE 40.0 OBESIDADE GRAVE!</string>
+    <string name="seu_imc">Seu IMC é:</string>
+    <string name="digite_seu_peso">Digite seu peso</string>
+    <string name="digite_sua_altura">Digite sua altura</string>
+    <string name="calcular">Calcular</string>
+</resources>
